@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need the following installed to get this project set up
 
-1. Access to a functioning copy of [b2evolution](https://b2evolution.net/)
+1. Access to a functioning copy of [b2evolution](https://b2evolution.net/) - I'm currently using 6.11.2-stable 
 2. [NodeJS/NPM](https://nodejs.org/en/)
 3. [Angular CLI](https://angular.io/)
 
